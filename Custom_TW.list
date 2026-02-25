@@ -1,9 +1,10 @@
-# --- 🇹🇼 台湾相关 (流媒体/Hinet/4GTV) ---
-- DOMAIN-SUFFIX,hinet.net
-- DOMAIN-SUFFIX,cdn.hinet.net
-- DOMAIN-SUFFIX,4gtv.tv
-- DOMAIN-SUFFIX,api2.4gtv.tv
-- DOMAIN-SUFFIX,ofiii.com
-- DOMAIN-SUFFIX,infini.money
-- IP-CIDR,123.51.231.132/32
-- IP-CIDR,60.250.121.103/32
+payload:
+  # --- 🇹🇼 台湾相关 (流媒体/Hinet/4GTV) ---
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,cdn.hinet.net
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,api2.4gtv.tv
+  - DOMAIN-SUFFIX,ofiii.com
+  - DOMAIN-SUFFIX,infini.money
+  - IP-CIDR,123.51.231.132/32
+  - IP-CIDR,60.250.121.103/32
